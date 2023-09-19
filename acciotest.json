@@ -1,0 +1,4 @@
+{
+    "testRepo": "testing-framework-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
